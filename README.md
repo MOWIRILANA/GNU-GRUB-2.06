@@ -1,7 +1,7 @@
 # GNU-GRUB-2.06
 When you stuck in GNU GRUB Version 2.06 you can try this
 
-#First you has use this command to know which your memory need to windows boot
+#First you have use this command to know which your memory need to windows boot
 ```bibtex
 grub>> ls
 ```
